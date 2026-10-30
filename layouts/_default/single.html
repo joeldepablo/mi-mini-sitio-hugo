@@ -1,0 +1,13 @@
+{{ partial "header.html" . }}
+
+<main>
+    <h2>{{ .Title }}</h2>
+
+    <p>Fecha: {{ .Date.Format "02/01/2006" }}</p>
+
+    {{ .Content }}
+
+    <p><a href="/">Volver al inicio</a></p>
+</main>
+
+{{ partial "footer.html" . }}

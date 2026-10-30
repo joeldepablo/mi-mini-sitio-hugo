@@ -1,0 +1,20 @@
+{{ partial "header.html" . }}
+
+<main>
+    <h2>{{ .Title }}</h2>
+
+    <p>Bienvenido a mi blog.</p>
+
+    <h3>Artículos publicados</h3>
+
+    <ul>
+        {{ range .Pages }}
+            <li>
+                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                - {{ .Date.Format "02/01/2006" }}
+            </li>
+        {{ end }}
+    </ul>
+</main>
+
+{{ partial "footer.html" . }}
