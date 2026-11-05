@@ -1,17 +1,19 @@
 ---
-title: "Mi segundo artículo"
-date: 2026-10-30
+title: "La importancia de Linux en ASIR"
+date: 2026-11-05
 draft: false
 ---
 
-# Mi segundo artículo
+# La importancia de Linux en ASIR
 
-En esta entrada voy a explicar algunas de las ventajas de utilizar Hugo.
+Linux es uno de los sistemas operativos más utilizados en la administración de servidores.
 
-## Ventajas de Hugo
+Durante el ciclo de ASIR estamos aprendiendo a utilizar distribuciones como Ubuntu y Debian.
 
-- Genera páginas web estáticas.
-- Es rápido y ligero.
-- Permite utilizar Markdown.
-- Organiza el contenido mediante carpetas.
-- Utiliza plantillas HTML reutilizables.
+## Algunos usos de Linux
+
+- Administración de servidores.
+- Configuración de redes.
+- Gestión de usuarios y permisos.
+- Automatización mediante scripts.
+- Servicios web y almacenamiento.

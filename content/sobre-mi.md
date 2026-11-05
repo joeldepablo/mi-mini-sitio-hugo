@@ -1,19 +1,23 @@
 ---
 title: "Sobre mí"
-date: 2026-10-30
+date: 2026-11-05
 draft: false
 ---
 
 # Sobre mí
 
-Soy estudiante de Administración de Sistemas Informáticos en Red (ASIR).
+Soy estudiante de primer curso de Administración de Sistemas Informáticos en Red (ASIR).
 
-Estoy aprendiendo desarrollo web y administración de sistemas.
+Actualmente estoy aprendiendo diferentes tecnologías relacionadas con la informática y el desarrollo web.
 
 ## Mis conocimientos
 
-- HTML y CSS.
 - Linux y Windows.
-- Redes informáticas.
 - Administración de sistemas.
+- Redes informáticas.
+- HTML y CSS.
 - Hugo y Markdown.
+
+## Mi objetivo
+
+Seguir aprendiendo sobre informática, redes y desarrollo web mediante prácticas y proyectos.
